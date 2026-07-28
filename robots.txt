@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-vnqgly.nuansa138.xyz/sitemap.xml
